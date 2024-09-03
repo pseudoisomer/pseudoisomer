@@ -1,5 +1,7 @@
 # 💫 About Me:
-- currently learning basic languages, such as python, html, css and java<br>- looking into getting into web development and mobile development<br>- i enjoy customizing my linux rice and creating scripts for automation
+- currently learning basic languages, such as python, html, css and java<br>
+- looking into getting into web development and mobile development<br>
+- i enjoy customizing my linux rice and creating scripts for automation
 
 
 # 💻 Tech Stack:
